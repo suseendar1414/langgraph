@@ -25,13 +25,12 @@ the required package can be found in requirement.txt
 ## Contributing
 Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[Include License here]
+
 
 ## Contact
-- Your Name
-- Your Contact Information
-- Any additional social links (LinkedIn, Twitter, etc.)
+- suseendar
+- suseendarannair@gmail.com
+- www.linkedin.com/in/suseendaranmurali
 
 ---
 
